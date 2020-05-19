@@ -1,0 +1,25 @@
+{
+  "name": "burger-logger",
+  "version": "1.0.0",
+  "description": "# Node Express Handlebars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbrandona119/Burger-Logger.git"
+  },
+  "author": "jbrandona119 <jbrandona119@gmail.com> (http://jbrandona119.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbrandona119/Burger-Logger/issues"
+  },
+  "homepage": "https://github.com/jbrandona119/Burger-Logger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "method-override": "^3.0.0",
+    "mysql": "^2.18.1"
+  }
+}
